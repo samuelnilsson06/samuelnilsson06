@@ -10,12 +10,8 @@ Currently learning:
 
 My active projects are:
 * Command parsing system(C#)
-* Folder organization application(C#) 
+* some Folder Creation CLI program(C#) 
 
 I use:
 * Microsoft Visual Studio + code
 * Unity game engine(occasionally) 
-
-string[] For Santa = {
-	"Raspberry pi 4"
-} 
