@@ -3,15 +3,14 @@ Im some guy
 
 I have a huge interest in writing loads of lines containing red marked text
 
-Currently learning:
+##Currently learning:
 * C#
-* C++
+* html, css, js
 * Python
+###Also mesding around with:
+* C++
+* Java
 
-My active projects are:
-* Command parsing system(C#)
-* some Folder Creation CLI program(C#) 
-
-I use:
+##I use:
 * Microsoft Visual Studio + code
 * Unity game engine(occasionally) 
