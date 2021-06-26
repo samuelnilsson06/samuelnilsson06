@@ -7,7 +7,7 @@ I have a huge interest in writing loads of lines containing red marked text
 * C#
 * html, css, js
 * Python
-##### Also mesding around with:
+##### Also messing around with:
 * C++
 * Java
 
